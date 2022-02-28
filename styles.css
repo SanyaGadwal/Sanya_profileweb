@@ -40,19 +40,19 @@ body{
                 position: relative; left: 70px;top: 60px;
                }
                .Experience{
-                position: relative; left: 0px;top: 60px;
+                position: relative; left: 70px;top: 70px;
                }
                .Experiencetheory{
                 border-radius: 20px;
                    position: relative;width: 560px;height: 150px;
                    background-color: rgb(173, 144, 235);
-                   position: relative;left: 0px; top: 60px;
+                   position: relative;left: 70px; top: 70px;
                }
                .Education{
-                   position: relative;left: 0px;top: -400px;
+                   position: relative;left: 70px;top: 90px;
                }
                .pehlapointeducation{
-                   position: relative;left: 0px;top: -380px;
+                   position: relative;left: 70px;top: 100px;
                }
                img.Clglogo{
                 width: 70px; 
@@ -62,7 +62,7 @@ body{
         position: relative;left: 20px ;top: 10px;
                }
                .clgheading{
-                position: relative;left: 20px;top: -400px;
+                position: relative;left: 90px;top: 80px;
                }
                img.Allenlogo {
                 width: 70px; 
@@ -72,7 +72,7 @@ body{
         position: relative;left: 20px ;top: 10px;
                }
                .allenheading{
-                position: relative;left: 20px;top: -400px;
+                position: relative;left: 90px;top: 80px;
                }
                img.Alpinelogo{
                 width: 80px; 
@@ -82,10 +82,10 @@ body{
         position: relative;left: 15px ;top: 10px;
                }
                .alpineheading{
-                position: relative;left: 150px;top: -410px;
+                position: relative;left: 220px;top: 70px;
                }
                .chothapointeducation{
-                position: relative;left: 0px;top: -390px;
+                position: relative;left: 70px;top: 80px;
                }
                img.Norbertlogo{
                 width: 70px; 
@@ -95,44 +95,46 @@ body{
         position: relative;left: 20px ;top: 0px;
                }
                .norbertheading{
-                position: relative;left: 20px;top: -420px;
+                position: relative;left: 90px;top: 50px;
                }
                .eduyrs{
                 color: rgba(0,0,0, 0.6);
                 font-size:medium;
                }
                .Skills{
-                position: relative;left: 10px;top: -400px;
+                position: relative;left: 80px;top: 70px;
                }
                .skilltheory{
-                position: relative;left: 50px; top: -400px;
+                position: relative;left: 100px; top: 80px;
                }
                .Courses{
                    float: right;
-                   position: relative;left: 300px;top: -200px;
+                   position: relative;left: -500px;top: -140px;
                }
                .coursetable{
                 border-top-right-radius:15px;
   border-bottom-right-radius:15px;
   border-bottom-left-radius:15px;
                 text-align: center;
-                position: relative;left: 20px;top: 0px;
+                position: relative;left: 50px;top: 0px;
                 width: 100%; height: 70px;
                 }
                .courseslist{
                 float: right;
-                position: relative;left: 730px;top:-130px;
+                position: relative;left: -60px;top:-70px;
                }
                .coursetablecontent{
                 font-weight: 700;
                }
                .Achievements{
                    float: right;
-                   position: relative;left: 360px;top:-837px;
+                   position: relative;left: 130px;top:-260px;
+                   font-weight: bold;font-size:x-large
                 }
                 .Achievementlist{
                     float: right;
-                position: relative;left: 700px;top:-837px;
+                position: relative;left: -200px;top:30px;
+                font-weight: 500; font-size:large
                 }
                 .Achievetrans{
                     position: relative;left: 0px;top: 0px;
@@ -141,22 +143,22 @@ body{
                 img.Mail{
                     width: 40px;
                     border-radius: 20px;
-                    position: relative;top: -400px;left: 1010px;
+                    position: relative;top: 200px;left: 1050px;
                     float: left;
                 }
                .mail {
-                   position: relative; left: 1050px;top: -320px;
+                   position: relative; left: 1050px;top: 212px;
                    font-style: italic;
                   font-weight: bold;
                }
                img.Phone{
                     width: 35px;
                     border-radius: 20px;
-                    position: relative;top: -390px;left: 1012px;
+                    position: relative;top:220px;left: 1012px;
                     float: left;
                 }
                .phone{
-                   position: relative; left: 1050px;top: -310px;
+                   position: relative; left: 1020px;top: 226px;
                    font-style: italic;
                   font-weight: bold;
                }
